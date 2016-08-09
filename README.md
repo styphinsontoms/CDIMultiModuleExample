@@ -1,1 +1,1 @@
-# CDIMultiModuleExample
+# A web application using CDI and Weld cabable of running in tomcat. This also has deltaspike
